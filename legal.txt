@@ -1,0 +1,35 @@
+Copyright (c) 2020 CelestialClient. All Rights Reserved.
+
+When we speak of “CelestialClient,” “Client,” “we,” “us,” and “our,” we mean CelestialClient and its affiliates.
+When we speak of “Cosmetics,” and “Ranks,” we mean In-App, aswell as External Purchases.
+
+By using this client, you accept these "Terms and Conditions".
+
+# General Usage
+
+By accepting these "Terms and Conditions", you
+1. acknowledge that you may not attempt to decompile, recompile, or otherwise reverse engineer this software, unless granted permission from an authorized CelestialClient Representative;
+2. acknowledge that we may, at any time:
+  (a) Revoke your rights to use the client;
+  (b) Prevent usage of the client on certain "Servers", and;
+  (c) Prevent usage of this client entirely;
+3. acknowledge that we are allowed to store the following data on our servers:
+  (a) Your IP;
+  (b) Your DNS Server;
+  (c) Your "Server List";
+  (d) Your OS;
+  (e) Your Machine's Name, and
+  (f) Your Hardware ID.
+  We may keep this data for however long we like, although you may request it is removed by emailing RemoveMyData@wafflepowered.com
+  We reserve the right to ignore your request, but we will likely remove data upon your request.
+4. acknowledge that we shall not be held liable for anything related to your usage of our "Service"
+
+THIS SERVICE IS PROVIDED WITH NO WARRANTY, TO THE EXTENT PROVIDED BY LAW.
+
+
+# "In-Game" Cosmetics
+
+By buying Cosmetics, or Ranks on our "Store", you agree to the following:
+1. We are not, in any way, required to refund a purchase that has been made.
+2. We shall not be held liable for any missing "Items" from said purchases.
+3. We shall not be held liable for any failed purchases.
