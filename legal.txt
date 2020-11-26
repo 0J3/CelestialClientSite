@@ -13,16 +13,16 @@ By accepting these "Terms and Conditions", you
   (a) Revoke your rights to use the client;
   (b) Prevent usage of the client on certain "Servers", and;
   (c) Prevent usage of this client entirely;
-3. acknowledge that we are allowed to store the following data on our servers:
+3. acknowledge that we shall not be held liable for anything related to your usage of our "Service";
+4. acknowledge that we are allowed to store the following data on our servers:
   (a) Your IP;
   (b) Your DNS Server;
   (c) Your "Server List";
   (d) Your OS;
-  (e) Your Machine's Name, and
+  (e) Your Machine's Name, and;
   (f) Your Hardware ID.
   We may keep this data for however long we like, although you may request it is removed by emailing RemoveMyData@wafflepowered.com
   We reserve the right to ignore your request, but we will likely remove data upon your request.
-4. acknowledge that we shall not be held liable for anything related to your usage of our "Service"
 
 THIS SERVICE IS PROVIDED WITH NO WARRANTY, TO THE EXTENT PROVIDED BY LAW.
 
